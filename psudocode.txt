@@ -1,0 +1,12 @@
+
+loop untill player press cancel
+create data stor to store game statistics
+store user input
+validate user input
+find way to generate computer input, randomly generate r, s, or p
+determine who wins
+declare and notify who wins loses or draws
+ask user if they want to play again
+    if user says no or cancel
+    stop the game 
+    report stats 
